@@ -29,7 +29,7 @@
 	},
 	"dependencies": {
 		"@mdi/font": "^5.0.45",
-		"axios": "^0.19.2",
+		"axios": "^0.21.1",
 		"iso-639-1": "^2.1.1",
 		"lodash.groupby": "^4.6.0",
 		"lodash.sortby": "^4.7.0",
